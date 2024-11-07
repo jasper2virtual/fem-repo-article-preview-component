@@ -4,7 +4,7 @@
       <Card />
     </main>
     <footer>
-      <Attribution myName="Jasper Lai" />
+      <Attribution myName="Jasper Lai" gitLink="https://github.com/jasper2virtual/fem-repo-article-preview-component.git" />
     </footer>
   </div>
 </template>
